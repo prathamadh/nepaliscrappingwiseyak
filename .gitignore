@@ -1,0 +1,6 @@
+venv/
+segments/
+ytdownloaded/
+*.mp3
+*.wav
+ffmpeg-2024-01-14-git-34a47b97de-essentials_build/
