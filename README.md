@@ -9,23 +9,14 @@
 
 - **mainfolder/:**
   - **audiochunks/:**
-  
   - **segments/:**
-  
   - **splitvocal/:**
-  
   - **ytdownloaded/:**
-  
   - **download_status.csv:**
-  
   - **filechunk_status.csv:**
-  
   - **vocalsplit_status.csv:**
-  
   - **download.py:**
-  
   - **vocalsplit.py:**
-  
   - **chunkmaker.py:**
 # make the first four folders using mkdir
 
