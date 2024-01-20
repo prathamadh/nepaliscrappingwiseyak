@@ -3,17 +3,21 @@
 
 
 ## file system
-mainfolder/:
-    audiochunks/
-    segments/
-    splitvocal/
-    ytdownloaded/
-    download_status.csv
-    filechunk_status.csv
-    vocalsplit_status.csv
-    download.py
-    vocalsplit.py
-    chunkmaker.py
+# Project Directory Structure
+
+# Project Directory Structure
+
+- **mainfolder/:**
+  - **audiochunks/:**
+  - **segments/:**
+  - **splitvocal/:**
+  - **ytdownloaded/:**
+  - **download_status.csv:**
+  - **filechunk_status.csv:**
+  - **vocalsplit_status.csv:**
+  - **download.py:**
+  - **vocalsplit.py:**
+  - **chunkmaker.py:**
 # make the first four folders using mkdir
 
 put path of ffmpeg in your env variables
